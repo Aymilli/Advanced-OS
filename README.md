@@ -24,7 +24,7 @@ Interactive, user-friendly interface
 
 Getting Started
 1. Clone the Repository
-git clone https://github.com/your-username/your-repo-name.git
+git clone https://github.com/Aymilli/Advanced-OS.git
 cd your-repo-name
 2. Make Scripts Executable
 chmod +x system1_admin_tool.sh
