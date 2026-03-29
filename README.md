@@ -8,6 +8,7 @@ Project Overview
 The project consists of three main scripts:
 
 system1_admin_tool.sh (Task 1)
+
 A menu-driven tool for managing Linux OS processes and system resources.
 jobs_scheduler.sh (Task 2)
 A script for automating and managing scheduled jobs.
