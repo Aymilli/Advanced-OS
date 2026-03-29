@@ -3,7 +3,7 @@ Bash Script Source Code for Operating System Automation and Management
 
 This project provides a set of Bash scripts designed to automate key Linux operating system administration tasks. It focuses on process management, job scheduling, and secure file handling using simple, interactive command-line tools.
 
-# Project Overview
+## Project Overview
 
 The project consists of three main scripts:
 
@@ -11,15 +11,15 @@ Task 1: system1_admin_tool.sh
 
 A menu-driven tool for managing Linux OS processes and system resources.
 
-jobs_scheduler.sh (Task 2)
+Task 2: jobs_scheduler.sh 
 
 A script for automating and managing scheduled jobs.
 
-secure_submission.sh (Task 3)
+Task 3 secure_submission.sh 
 
 A tool for secure file submission with controlled access and permissions.
 
-# Features
+## Features
 
 Process monitoring and management
 Memory and disk usage tracking
@@ -28,7 +28,7 @@ Secure file submission and permission control
 Log management and archiving
 Interactive, user-friendly interface
 
-Getting Started
+## Getting Started
 1. Clone the Repository
 git clone https://github.com/Aymilli/Advanced-OS.git
 cd your-repo-name
