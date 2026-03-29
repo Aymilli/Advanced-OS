@@ -3,7 +3,7 @@ Bash Script Source Code for Operating System Automation and Management
 
 This project provides a set of Bash scripts designed to automate key Linux operating system administration tasks. It focuses on process management, job scheduling, and secure file handling using simple, interactive command-line tools.
 
-Project Overview
+# Project Overview
 
 The project consists of three main scripts:
 
@@ -17,7 +17,7 @@ A script for automating and managing scheduled jobs.
 secure_submission.sh (Task 3)
 A tool for secure file submission with controlled access and permissions.
 
-Features
+# Features
 
 Process monitoring and management
 Memory and disk usage tracking
