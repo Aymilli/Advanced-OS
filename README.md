@@ -7,7 +7,7 @@ This project provides a set of Bash scripts designed to automate key Linux opera
 
 The project consists of three main scripts:
 
-system1_admin_tool.sh (Task 1)
+Task 1: system1_admin_tool.sh
 
 A menu-driven tool for managing Linux OS processes and system resources.
 
