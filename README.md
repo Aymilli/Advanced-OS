@@ -31,7 +31,9 @@ Interactive, user-friendly interface
 ## Getting Started
 1. Clone the Repository
 git clone https://github.com/Aymilli/Advanced-OS.git
-cd your-repo-name
+
+cd Advanced-OS
+
 2. Make Scripts Executable
 chmod +x system1_admin_tool.sh
 chmod +x jobs_scheduler.sh
