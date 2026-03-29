@@ -12,9 +12,11 @@ system1_admin_tool.sh (Task 1)
 A menu-driven tool for managing Linux OS processes and system resources.
 
 jobs_scheduler.sh (Task 2)
+
 A script for automating and managing scheduled jobs.
 
 secure_submission.sh (Task 3)
+
 A tool for secure file submission with controlled access and permissions.
 
 # Features
