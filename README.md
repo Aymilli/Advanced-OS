@@ -1,4 +1,4 @@
-# 🖥️ Bash Script Automation for OS Management
+# Bash Script Automation for OS Management
 
 This project provides a set of **Bash scripts** designed to automate key
 Linux operating system administration tasks. It focuses on process
@@ -11,14 +11,14 @@ interactive command-line tools.
 
 The project consists of three main scripts:
 
--   ** Task 1: `system1_admin_tool.sh` **\
+-   ** Task 1: `system1_admin_tool.sh` **
     A menu-driven tool for managing Linux OS processes and system
     resources.
 
--   ** Task 2: `jobs_scheduler.sh` **\
+-   ** Task 2: `jobs_scheduler.sh` **
     A script for automating and managing scheduled jobs.
 
--   ** Task 3: `secure_submission.sh` **\
+-   ** Task 3: `secure_submission.sh` **
     A tool for secure file submission with controlled access and
     permissions.
 
@@ -26,11 +26,11 @@ The project consists of three main scripts:
 
 ## Features
 
--   Process monitoring and management\
--   Memory and disk usage tracking\
--   Job scheduling and automation\
--   Secure file submission and permission control\
--   Log management and archiving\
+-   Process monitoring and management
+-   Memory and disk usage tracking
+-   Job scheduling and automation
+-   Secure file submission and permission control
+-   Log management and archiving
 -   Interactive, user-friendly interface
 
 ------------------------------------------------------------------------
@@ -92,8 +92,8 @@ control and restricted access.
 
 ## Usage
 
--   Execute any script using `./script_name.sh`\
--   Follow the on-screen instructions\
+-   Execute any script using `./script_name.sh`
+-   Follow the on-screen instructions
 -   Select options using the menu interface (where applicable)
 
 ------------------------------------------------------------------------
@@ -110,8 +110,8 @@ control and restricted access.
 
 ## Requirements
 
--   Linux-based operating system\
--   Bash shell (version 4 or higher recommended)\
+-   Linux-based operating system
+-   Bash shell (version 4 or higher recommended)
 -   Standard POSIX-compliant tools such as:
     -   grep
     -   ps
@@ -125,33 +125,22 @@ control and restricted access.
 
 ### Task 1 -- OS Management
 
--   Monitor running processes\
--   Identify high memory usage\
--   Check disk space\
+-   Monitor running processes
+-   Identify high memory usage
+-   Check disk space
 -   Manage and archive logs
 
 ### Task 2 -- Job Scheduling
 
--   Schedule automated tasks\
--   Run periodic system maintenance\
+-   Schedule automated tasks
+-   Run periodic system maintenance
 -   Manage background jobs
 
 ### Task 3 -- Secure Submission
 
--   Enforce file permissions\
--   Secure file submissions\
+-   Enforce file permissions
+-   Secure file submissions
 -   Prevent unauthorized access
-
-------------------------------------------------------------------------
-
-## Contributing
-
-Contributions are welcome!
-
-1.  Fork the repository\
-2.  Create a new branch\
-3.  Make your changes\
-4.  Submit a pull request
 
 ------------------------------------------------------------------------
 
